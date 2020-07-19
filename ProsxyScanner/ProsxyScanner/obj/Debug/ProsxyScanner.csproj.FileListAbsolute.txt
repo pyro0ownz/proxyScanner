@@ -1,0 +1,10 @@
+C:\Users\pyro0ownz\Desktop\c#\proxy tools\ProxyscannerUpdate\ProsxyScanner\ProsxyScanner\bin\Debug\ProsxyScanner.exe.config
+C:\Users\pyro0ownz\Desktop\c#\proxy tools\ProxyscannerUpdate\ProsxyScanner\ProsxyScanner\bin\Debug\ProsxyScanner.exe
+C:\Users\pyro0ownz\Desktop\c#\proxy tools\ProxyscannerUpdate\ProsxyScanner\ProsxyScanner\bin\Debug\ProsxyScanner.pdb
+C:\Users\pyro0ownz\Desktop\c#\proxy tools\ProxyscannerUpdate\ProsxyScanner\ProsxyScanner\obj\Debug\ProsxyScanner.csprojAssemblyReference.cache
+C:\Users\pyro0ownz\Desktop\c#\proxy tools\ProxyscannerUpdate\ProsxyScanner\ProsxyScanner\obj\Debug\ProsxyScanner.Main.resources
+C:\Users\pyro0ownz\Desktop\c#\proxy tools\ProxyscannerUpdate\ProsxyScanner\ProsxyScanner\obj\Debug\ProsxyScanner.Properties.Resources.resources
+C:\Users\pyro0ownz\Desktop\c#\proxy tools\ProxyscannerUpdate\ProsxyScanner\ProsxyScanner\obj\Debug\ProsxyScanner.csproj.GenerateResource.cache
+C:\Users\pyro0ownz\Desktop\c#\proxy tools\ProxyscannerUpdate\ProsxyScanner\ProsxyScanner\obj\Debug\ProsxyScanner.csproj.CoreCompileInputs.cache
+C:\Users\pyro0ownz\Desktop\c#\proxy tools\ProxyscannerUpdate\ProsxyScanner\ProsxyScanner\obj\Debug\ProsxyScanner.exe
+C:\Users\pyro0ownz\Desktop\c#\proxy tools\ProxyscannerUpdate\ProsxyScanner\ProsxyScanner\obj\Debug\ProsxyScanner.pdb
